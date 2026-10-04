@@ -1,4 +1,5 @@
 # SecureVault
+[![SecureVault Tests](https://github.com/has990/securevault/actions/workflows/tests.yml/badge.svg)](https://github.com/has990/securevault/actions/workflows/tests.yml)
 
 **SecureVault** is a local-first secure password manager developed as a cybersecurity project. It is designed to demonstrate practical applications of modern cryptography, authentication, integrity protection, secure storage, audit logging, and defensive security controls.
 

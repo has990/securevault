@@ -383,7 +383,6 @@ securevault/
 ├── requirements.txt
 ├── README.md
 ├── SECURITY.md
-└── project_report.md
 ```
 
 ---

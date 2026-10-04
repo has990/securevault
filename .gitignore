@@ -1,0 +1,90 @@
+# ==============================
+# Python
+# ==============================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ==============================
+# Testing
+# ==============================
+
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# ==============================
+# IDE / Editors
+# ==============================
+
+.vscode/
+.idea/
+*.iml
+
+# ==============================
+# Operating System
+# ==============================
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ==============================
+# SecureVault Local Data
+# ==============================
+
+# Local database files
+vault.db
+vault.db-wal
+vault.db-shm
+
+# Local vault storage
+.vault_store/
+
+# Local/temporary security files
+integrity_baselines/
+*.tmp
+*.temp
+
+# Audit/log files
+*.log
+
+# ==============================
+# Environment / Secrets
+# ==============================
+
+.env
+.env.*
+*.secret
+*.key
+*.pem
+
+# ==============================
+# Backup / Export Files
+# ==============================
+
+*.backup
+*.bak
+*.dump
+
+# SecureVault exported vault files
+vault_export*
+securevault_backup*
